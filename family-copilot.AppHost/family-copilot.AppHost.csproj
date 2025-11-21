@@ -8,6 +8,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UserSecretsId>f06e47ed-05c1-421e-81e7-e4ba872c83c3</UserSecretsId>
+    <AssemblyTitle>FamilyCopilot.AppHost</AssemblyTitle>
+    <AssemblyName>FamilyCopilotAppHost</AssemblyName>
+    <RootNamespace>FamilyCopilot.AppHost</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
