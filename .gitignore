@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/family-copilot.ApiService/bin/Debug/net10.0
+/family-copilot.ApiService/obj
+/family-copilot.AppHost/obj
+/family-copilot.AppHost/bin/Debug/net10.0
+/family-copilot.ServiceDefaults/bin/Debug/net10.0
+/family-copilot.ServiceDefaults/obj
+/family-copilot.Web/bin/Debug/net10.0
+/family-copilot.Web/obj
