@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="family-copilot.ApiService/family-copilot.ApiService.csproj" />
+  <Project Path="family-copilot.AppHost/family-copilot.AppHost.csproj" />
+  <Project Path="family-copilot.ServiceDefaults/family-copilot.ServiceDefaults.csproj" />
+  <Project Path="family-copilot.Web/family-copilot.Web.csproj" />
+</Solution>
